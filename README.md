@@ -1,5 +1,5 @@
 # 1. Quiz Game
-(Instructions)["https://github.com/gophercises/quiz"]
+[Instructions](https://github.com/gophercises/quiz)
 
 ## By default, this program runs for 30 seconds
 
